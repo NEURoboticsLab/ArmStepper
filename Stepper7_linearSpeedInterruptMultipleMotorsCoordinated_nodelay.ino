@@ -1,4 +1,3 @@
-// For RAMPS 1.4
 #define X_DIR_PIN          2
 #define X_STEP_PIN         3
 #define X_ENABLE_PIN       38
